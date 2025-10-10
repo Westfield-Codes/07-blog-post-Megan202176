@@ -26,3 +26,14 @@ html {
 }
 
 /* NEW CSS HERE */
+body{
+  text-align: left;
+  background-color: rgb(214, 233, 247)
+  }
+
+   h1 {
+      border-color: rgb(164, 206, 247);
+    border-width: 4px;
+      border-style: dashed;
+
+   }
