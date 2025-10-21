@@ -28,11 +28,12 @@ html {
 /* NEW CSS HERE */
 body{
   text-align: left;
-  background-color: rgb(214, 233, 247)
-  }
+  background-color:rgb(212, 233, 255);
+}
 
 h1{
 color:rgb(33, 57, 102);
+font-size: 55px;
 border-style:double;
 border-width:10px;
 border-color:rgb(180, 206, 255);
@@ -41,6 +42,8 @@ font-family:'Cambria'
 
 h2, h3{
 color:rgb(33, 57, 102);
+text-decoration: underline;
+font-size: 25px;
 font-family:'Cambria'
 } 
 
@@ -49,6 +52,8 @@ border-style:inset;
  border-width:10px;
  border-color:rgb(180, 206, 255)
 }
+
 p, ol, ul, a{
+  font-size: 18px;
   font-family:'Cambria'
 }
